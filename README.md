@@ -1,7 +1,7 @@
 # gentoo-lf
 ebuild repository for [lf](https://github.com/gokcehan/lf).
 
-To generate the dependency tarball yourself for version rXX:
+To generate the vendor tarball yourself for version rXX:
 
 ```bash
 wget https://github.com/gokcehan/lf/archive/refs/tags/rXX.tar.gz
